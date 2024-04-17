@@ -1,0 +1,13 @@
+Introduction to Geospatial Raster and Vector Data with Python 
+The Python community is steadily growing in the field of Earth and Space Sciences, as many Python tools have evolved to more efficient and user-friendly status for handling geospatial data. In this short introductory course, we will help participants with a working knowledge of Python to familiarize themselves with the world of geospatial raster and vector data. We will introduce a set of tools from the Python ecosystem and show how these can be used to carry out practical geospatial data analysis tasks. We will use satellite images and public geo-datasets as examples, and demonstrate how they can be opened, explored, manipulated, combined, and visualized using Python. The tutorial will be based on the lesson “Introduction to Geospatial Raster and Vector data with Python” [1], which is part of the Incubator program [2] of The Carpentries [3].
+
+We encourage participants to join with a laptop and code along with the instructors. Researchers and staff interested in teaching the lesson curriculum [1] at their own institutions are also very welcome to join the demo.
+
+[1] https://carpentries-incubator.github.io/geospatial-python
+[2] https://carpentries-incubator.org/
+[3] https://carpentries.org
+
+Share: https://meetingorganizer.copernicus.org/EGU24/session/49444  
+Co-organized by AS6/ESSI6/GD11/GM13
+Convener: Ou KuECS | Co-conveners: Bart Schilperoort, Francesco Nattino, Pranav ChandramouliECS
+ Mon, 15 Apr, 19:00–20:00 (CEST) Room N1
