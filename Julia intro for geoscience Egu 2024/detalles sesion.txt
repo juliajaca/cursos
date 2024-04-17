@@ -1,0 +1,18 @@
+Introduction to Julia for geoscience 
+Julia offers a fresh approach to scientific computing, high-performance computing and data crunching. Recently designed from the ground up Julia avoids many of the weak points of older, widely used programming languages in science such as Python, Matlab, and R. Julia is an interactive scripting language, yet it executes with similar speed as C(++) and Fortran. Its qualities make it an appealing tool for the geo-scientist.
+
+Julia has been gaining traction in the geosciences over the last years in applications ranging from high performance simulations, data processing, geostatistics, machine learning, differentiable programming to general modelling. The Julia package ecosystem necessary for geosciences has substantially matured, which makes it readily usable for research.
+
+This course provides a hands-on introduction to get you started with Julia. We aim to give a broad overview of Julia and its ecosystem as well as going through hands-on coding exercises based around concrete earth science applications. In particular you will:
+- learn about the Julia language and what sets it apart from others
+- write simple Julia code to get you started with scientific programming (arrays, loops, input/output, etc.)
+- hand-on exercise on installing Julia packages and management of package environments (similar, e.g., to virtual-environments in Python)
+- brief overview of geoscience related packages
+- code a small project, such as a simple 1D model or a data processing pipeline, with a particular focus to achieve performance on par with C or Fortran.
+
+We request participants to install Julia on their laptops to allow a smooth start into the course. We will provide detailed documentation for this installation. We look forward to having you on board and aim this workshop to be a fresh and interactive outlook on modern scientific computing. We will make sure to foster exchange of ideas and knowledge and to provide an as inclusive as possible event.
+
+Share: https://meetingorganizer.copernicus.org/EGU24/session/49443  
+Co-organized by ESSI6/GM13/NH12
+Convener: Mauro Werder | Co-conveners: Victor Boussange, Jordi BolibarECS, Lazaro Alonso Silva
+ Wed, 17 Apr, 08:30–10:15 (CEST) Room -2.85/86
